@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(to right, rgb(233, 158, 61), rgb(163, 142, 142))
+}
+
+h2 {
+    font-family: sans-serif, serif;
+    font-weight: 600;
+    margin-left: 15px
+}
+
+.card {
+    display: flex;
+    background: linear-gradient(to right, rgb(150, 250, 163), rgb(219, 228, 171));
+    border: 4px solid #700606;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 15px 10px 0px 5px #00000033;
+}
+
+.cont2 {
+    background: linear-gradient(to right, rgb(238, 167, 234), rgb(93, 216, 99));
+}
+
+.form-control {
+    border: none;
+    border-bottom: 2px solid aquamarine;
+    border-radius: 10px;
+}
+
+.btn {
+    background: linear-gradient(to right, rgb(192, 47, 47), rgb(43, 10, 230))
+}
+
+.from {
+    margin-top: 5px;
+    width: 90%;
+}
+
+.caja2 {
+    margin-left: 55px;
+}
+
+th {
+    color: #0c0b0a;
+}
+
+.title {
+    color: rgb(51, 13, 190);
+}
